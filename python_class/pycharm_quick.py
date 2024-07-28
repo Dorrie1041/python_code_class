@@ -20,3 +20,4 @@ print(b)
 # cmd + opt + enter 往上回车键
 # cmd + delete 删除
 # cmd + F find a file
+# shirt + tab 取消缩进
